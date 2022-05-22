@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../Another Files"
+		},
+		{
+			"path": "../GitFolder"
+		},
+		{
+			"path": "../html_programing"
+		},
+		{
+			"path": "../java_programming"
+		},
+		{
+			"path": "../Liberary_management"
+		},
+		{
+			"path": "../nodejs"
+		},
+		{
+			"path": "../Notes_Data_structure&algorithem"
+		},
+		{
+			"path": "../programming file"
+		},
+		{
+			"path": "../Project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html_programing"
+	}
+}

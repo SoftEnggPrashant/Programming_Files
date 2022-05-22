@@ -1,0 +1,4 @@
+prashant is the good boy 
+prashant is the king of the universe 
+prashant is the perfect programmer 
+the append data from textfile using the write functuionThank you
