@@ -1,0 +1,1 @@
+{"name":"Local: Indfix_to_postfix_conversion","url":"/home/prashant/Documents/programming file/Indfix_to_postfix_conversion.cpp","tests":[{"id":1650451213218,"input":"X*Y/Z","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/prashant/Documents/programming file/Indfix_to_postfix_conversion.cpp","group":"local","local":true}

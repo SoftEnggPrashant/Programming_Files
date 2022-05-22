@@ -1,0 +1,1 @@
+{"name":"Local: Good_weather","url":"/home/prashant/Documents/programming file/Good_weather.cpp","tests":[{"id":1632321639572,"input":"4\n1 0 1 0 1 1 1\n0 1 0 0 0 0 1\n1 1 1 1 1 1 1\n0 0 0 1 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/prashant/Documents/programming file/Good_weather.cpp","group":"local","local":true}
