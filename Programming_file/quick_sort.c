@@ -8,18 +8,7 @@ void display(int A[],int n)
    }
    printf("\n");
 }
-void quicksort(int A[],int lb,int up)
-{
-    int loc;
-    if (lb<up)
-    {
-        loc = partition(A,lb,up);
-        quicksort(A,lb,loc-1);
-        quicksort(A,loc+1,up);
 
-    }
-    
-}
 int partition(int A[],int lb,int up)
 {
   int pivot=A[lb];
@@ -51,6 +40,20 @@ int partition(int A[],int lb,int up)
   }
        return end;
 }
+
+void quicksort(int A[],int lb,int up)
+{
+    int loc;
+    if (lb<up)
+    {
+        loc = partition(A,lb,up);
+        quicksort(A,lb,loc-1);
+        quicksort(A,loc+1,up);
+
+    }
+    
+}
+
 int main()
 {
     int size=8;

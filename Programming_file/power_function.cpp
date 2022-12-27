@@ -1,11 +1,15 @@
 #include<iostream>
 using namespace std;
 int power(int a,int b){
-   int temp;
+
    if(b==0)return 1;
-   temp = power(a,b/2);
-   if(temp %2 ==0) return temp*temp;
-   else return a*temp*temp;
+
+   int temp = power(a,b/2);
+
+   if(temp %2 ==0) 
+        return temp*temp;
+   else 
+        return a*temp*temp;
 }
 int main(){
     int a,b;
